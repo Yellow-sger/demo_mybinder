@@ -1,0 +1,10 @@
+dependencies:
+  - python=3.9
+  - pip:
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - openpyxl
+    - pyecharts
